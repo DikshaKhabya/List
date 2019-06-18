@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/sortascend"
+        android:title="@string/sort"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/filters"
+        android:title="@string/filter"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/cross"
+        android:icon="@drawable/cross"
+        android:title="@string/cancel"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

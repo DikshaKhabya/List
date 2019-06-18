@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="num_list">NumberList</string>
+    <string name="filter">Filter</string>
+    <string name="value_of_x">Value of X</string>
+    <string name="value_of_y">value of Y</string>
+    <string name="range">Enter Range</string>
+    <string name="ySmall">Y should be greater than X</string>
+    <string name="empty">Please enter Fields</string>
+    <string name="max">Maximum</string>
+    <string name="min">"Minimum"</string>
+    <string name="no_records">No Records</string>
+    <string name="sort">Sort</string>
+    <string name="cancel">Cancel</string>
+</resources>
